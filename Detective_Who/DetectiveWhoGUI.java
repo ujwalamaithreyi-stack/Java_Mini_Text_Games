@@ -1,4 +1,4 @@
-package DWG;
+package Detective_Who;
 
 import javax.swing.*;
 import java.awt.*;

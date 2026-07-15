@@ -1,4 +1,4 @@
-package RLGL;
+package RedLight_GreenLight;
 import java.util.Scanner;
 
 class GameUtils {
